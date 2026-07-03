@@ -1,8 +1,9 @@
 # Computer-graphics-lab-report2
-Lab-2
+
 Author
 
 Atokeya Sabiha
+
 Description
 
 This C++ graphics program draws two cyan-colored obtuse triangles positioned at opposite corners of the screen on an orange background.
